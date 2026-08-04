@@ -1,0 +1,42 @@
+{{ define "main" }}
+
+<div class="mw8 center ph3">
+
+<h1>{{ .Title }}</h1>
+
+{{ $currentYear := "" }}
+
+{{ range .Pages.ByDate.Reverse }}
+
+    {{ $year := .Date.Format "2006" }}
+
+    {{ if ne $year $currentYear }}
+        {{ $currentYear = $year }}
+        <h2 class="mt4">{{ $year }}</h2>
+    {{ end }}
+
+   <div class="mw9 ml5 ph4">
+
+        <p>
+        <strong>{{ .Title | safeHTML }}</strong><br>
+
+        {{ delimit .Params.authors ", " }}<br>
+
+        <em>{{ .Params.journal }}</em>
+
+        {{ if .Params.doi }}
+        <br>
+        <a href="https://doi.org/{{ .Params.doi }}">
+            DOI
+        </a>
+        {{ end }}
+
+        </p>
+
+    </div>
+
+{{ end }}
+
+</div>
+
+{{ end }}

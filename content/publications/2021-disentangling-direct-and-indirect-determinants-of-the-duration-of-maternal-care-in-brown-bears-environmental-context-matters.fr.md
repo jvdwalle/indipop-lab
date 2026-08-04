@@ -1,0 +1,10 @@
++++
+title = "Disentangling direct and indirect determinants of the duration of maternal care in brown bears: Environmental context matters"
+date = "2021-01-01"
+authors = ["Joanie Van de Walle", "Andreas Zedrosser", "Jon E. Swenson", "Fanie Pelletier"]
+journal = "Journal of Animal Ecology"
+doi = "10.1111/1365-2656.13371"
+draft = false
++++
+
+The duration of maternal care, an important life-history trait affecting population dynamics, varies greatly within species. Yet, our understanding of its predictors is limited, mostly correlative and subject to misinterpretations, due to difficulties to disentangle the role of maternal- and offspring-related characteristics. We conducted path analysis on a dataset including 217 brown bear litters captured over a 29-year period in two populations in Sweden (‘North’ and ‘South’) facing contrasting environmental conditions to identify and quantify the causes of variation in the duration of maternal care (1.5 or 2.5 years). We showed that the causal determinants of the duration of maternal care were context-dependent. Contrary to their expected central role in the determination of the duration of maternal care, yearling mass and its direct determinants (i.e. litter size and maternal mass) were only important in the North population, where environmental conditions are harsher and the cost of extended maternal care presumably higher. In the South, the duration of maternal care was not caused by yearling mass nor any maternal or litter characteristics. Extension of maternal care may thus result from factors independent from maternal and offspring condition in the South, such as an artificial hunting-induced selection for longer maternal care through the legal protection of family groups. Our results provide an important contribution to our very limited knowledge of the direct and indirect determinants of the duration of maternal care and highlight the importance of accounting for the environmental context when assessing maternal reproductive tactics.
