@@ -10,7 +10,6 @@ featured_image = "/images/LogoSite.png"
   class="ma0 w-75"
 >}}
 
-[My Profile Picture again](/images/JV_4.png)
 
 {{< figure
   src="/images/uqar_logo.png"
