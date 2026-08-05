@@ -3,6 +3,7 @@ title = "Béatrice Lacombe"
 group = "Student"
 weight = 10
 photo = "/images/andreanne.png"
+draft = false
 +++
 
 Étudiante à la maîtrise
