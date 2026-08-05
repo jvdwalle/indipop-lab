@@ -2,13 +2,13 @@
 title = "Andréanne Beardsell, PhD"
 group = "Postdoctoral students"
 weight = 10
-photo = "/images/andreanne3.jpg"
+photo = "/images/andreanne.png"
 +++
 
 Postdoctoral researcher
 
 {{< figure
-  src="/images/andreanne3.jpg"
+  src="/images/andreanne.png"
   class="ma0 w-75"
 >}}
 
