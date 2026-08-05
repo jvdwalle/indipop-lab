@@ -1,5 +1,5 @@
 +++
 draft = false
 title = 'Équipe'
-featured_image = "/images/image2_2.jpg"
+featured_image = "/images/Image2_2.jpg"
 +++
