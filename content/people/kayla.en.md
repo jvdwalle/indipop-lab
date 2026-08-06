@@ -1,13 +1,13 @@
 +++
 draft = false
 title = 'Kayla Trempe-Kay'
-photo = "/images/kayla.jpeg"
+photo = "/images/kayla2.jpeg"
 +++
 
 Master's Student (Université de Sherbrooke)
 
 {{< figure
-  src="/images/kayla.jpeg"
+  src="/images/kayla2.jpeg"
   class="ma0 w-75"
 >}}
 
