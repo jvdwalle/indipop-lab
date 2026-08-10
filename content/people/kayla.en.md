@@ -19,3 +19,12 @@ Harbour seals (Phoca vitulina concolor) and grey seals (Halichoerus grypus) are 
 
 The aim of my project, which will be carried out in collaboration with Fisheries and Oceans Canada, is to characterize the distribution of births for both species over the last 20 years. This information will then enable us to observe the variance in the distribution of births, and to assess whether the average date of birth has changed over time for each species. I will then be able to verify whether the mean date of birth is associated with environmental variables such as water temperature and ice characteristics in the Estuary and Gulf of St. Lawrence, in order to understand the relative influence of these changes on phenology in grey and harbour seals. The study of these two species will enable us to better explain their phenological responses to climate change, taking into account their distinct strategies. 
 
+{{< figure
+  src="/images/qcbs_logo_v2.png"
+  class="ma0 w-75"
+>}}
+
+{{< figure
+  src="/images/logo-sherbrooke-uni.png"
+  class="ma0 w-75"
+>}}
