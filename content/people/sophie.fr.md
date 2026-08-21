@@ -6,7 +6,7 @@ title = 'Sophie Lavoie'
 Étudiante au doctorat
 
 {{< figure
-  src="/images/Sophie.JPG"
+  src="/images/Sophie.jpg"
   class="ma0 w-75"
 >}}
 

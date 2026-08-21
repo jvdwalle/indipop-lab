@@ -6,7 +6,7 @@ title = 'Sophie Lavoie'
 PhD Student
 
 {{< figure
-  src="/images/Sophie.JPG"
+  src="/images/Sophie.jpg"
   class="ma0 w-75"
 >}}
 
