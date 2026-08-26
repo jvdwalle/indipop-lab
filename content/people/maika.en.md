@@ -6,7 +6,7 @@ title = 'Maïka Martin'
 Undergraduate Student
 
 {{< figure
-  src="/images/Photo1_Maïka.jpg"
+  src="/images/Photo1_Maïka.jpeg"
   class="ma0 w-75"
 >}}
 
