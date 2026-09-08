@@ -1,12 +1,15 @@
 +++
 draft = false
 title = 'Maïka Martin'
+group = "Student"
+weight = 10
+photo = "/images/Photo1_Maïka.JPEG"
 +++
 
-Undergraduate Student
+Undergraduate Student (Université de Sherbrooke)
 
 {{< figure
-  src="/images/Photo1_Maïka.jpg" 
+  src="/images/Photo1_Maïka.JPEG"
   class="ma0 w-75"
 >}}
 
