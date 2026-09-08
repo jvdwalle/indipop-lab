@@ -9,7 +9,7 @@ photo = "/images/Photo1_Maïka.jpg"
 Étudiante au baccalauréat (Université de Sherbrooke)
 
 {{< figure
-  src="/images/Photo1_Maïka.jpg"
+  src="/images/Photo1_Maïka.png"
   class="ma0 w-75"
 >}}
 
