@@ -1,9 +1,9 @@
 +++
-draft = false
-title = 'Maïka Martin'
+title = "Maïka Martin"
 group = "Student"
 weight = 10
-photo = "/images/Photo1_Maïka.jpg"
+draft = false
+photo = "/images/Photo1_Maïka.png"
 +++
 
 Étudiante au baccalauréat (Université de Sherbrooke)
@@ -21,3 +21,4 @@ Une flexibilité au niveau de la date d’implantation ou une variabilité dans 
   src="/images/logo-sherbrooke-uni.png"
   class="ma0 w-75"
 >}}
+

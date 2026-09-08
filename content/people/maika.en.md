@@ -1,9 +1,9 @@
 +++
-draft = false
-title = 'Maïka Martin'
+title = "Maïka Martin"
 group = "Student"
 weight = 10
-photo = "/images/Photo1_Maïka.jpg"
+draft = false
+photo = "/images/Photo1_Maïka.png"
 +++
 
 Undergraduate Student (Université de Sherbrooke)
@@ -22,3 +22,4 @@ Flexibility in the timing of implantation or variability in fetal growth appear 
   src="/images/logo-sherbrooke-uni.png"
   class="ma0 w-75"
 >}}
+
